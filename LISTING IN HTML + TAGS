@@ -1,0 +1,48 @@
+<!DOCTYPE html><!--initialising web page-->
+<!--html code-->
+<html lang="en"><!--en stands for english-->
+
+<head>
+    <!--tags and its attributes-->
+    <meta charset="UTF-8"><!--sets the character encoding in web page-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index,follow">
+    <meta name="description" content="brief description of this website">
+    <meta http-equiv="refresh" content="30">
+    <!--sets the webpage screen compatible according the device screen-->
+    <title>www</title><!--web page title-->
+    <link rel="stylesheet" href="Ayan.css"><!--linking css-->
+    <script sc="Ayan.js"></script><!--linking javascript-->
+</head>
+
+<body>
+    <h1>My First web page<!--contents of the web page-->
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.<small></small> Temporibus adipisci, totam
+            reprehenderit laboriosam
+            placeat<strong>inmportant</strong> dolor id vitae officiis praesentium voluptate dolore asperiores, impedit
+            qui eius deleniti animi molestias veritatis.<br>
+            <hr> <em>emphasized</em> aliquid animi,10 <sup>3</sup> doloremque 10<sub>2</sub> quod
+            iusto praesentium placeat repudiandae. Doloribus...<!--superscript and subscript-->
+        </p>
+        <p align="center">Lorem ipsum dolor sit.</p><!--alignment of paragraph-->
+        <!--strong for bold and em for italic-->
+        <!--<br> to add new line-->
+        <!--<hr>horizontal line-->
+        <!--paragraphs<p>-->
+</body>
+<h2><strong>here are the lists of the grocery store</strong></h2>
+<ol><!--ordered lists(for unordered lists use ul)-->
+    <li>Bread</il>
+    <li>Butter</il>
+    <li>jam</li>
+    <li>oats</li>
+</ol>
+<h3>
+    <ol type="I"><!--I for roman type-->
+        <li>onions</li>
+        <li>tomatoes</li>
+        <li>chilli</li>
+    </ol>
+</h3>
+
+</html><!--closing the web page-->
