@@ -1,0 +1,64 @@
+<!DOCTYPE html><!--initialising web page-->
+<!--html code-->
+<html lang="en"><!--en stands for english-->
+
+<head>
+    <!--tags and its attributes-->
+    <meta charset="UTF-8"><!--sets the character encoding in web page-->
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <meta name="robots" content="index,follow">
+    <meta name="description" content="brief description of this website">
+    <meta http-equiv="refresh" content="30">
+    <!--sets the webpage screen compatible according the device screen-->
+    <title>www</title><!--web page title-->
+    <link rel="stylesheet" href="Ayan.css"><!--linking css-->
+    <script sc="Ayan.js"></script><!--linking javascript-->
+</head>
+<h2><strong>STUDENT TABLE</strong></h2><!--CREATING TABLES IN HTML-->
+<table>
+    <thead>
+        <tr>
+            <th>STUDENT ID</th>
+            <th>STUDENT NAME</th>
+            <th>ROLL NO</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>AYAAN</td>
+            <td>101</td>
+            <td>0032</td>
+        </tr>
+        <tr>
+            <td>AHMED</td>
+            <td>102</td>
+            <td>0033</td>
+        </tr>
+
+    </tbody>
+
+</table>
+<h3>\Image and Video Links/</h3>
+
+<body>
+
+
+
+    <a href="http://google.com" target="_blank">GO TO GOOGLE</a><!--hyperlinks-->
+
+    <img src="artur-aldyrkhanov-u159a2eL6UE-unsplash.jpg" alt="A scenic view or descriptive alt text" width="100"
+        height="100"><!--to upload an image file on your website-->
+
+    <!-- Embedding video -->
+    <video src="https://video" width="400"></video>
+    <!--Embedding Youtube video using Iframe-->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2QR11oDukn4?si=DWAFpksMuFTBZVn2"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+</body>
+
+
+</html><!--closing the web page-->
