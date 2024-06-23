@@ -1,0 +1,13 @@
+<h2><strong>ENTITIES IN HTML</strong></h2>
+<div>
+    <p> two spaces between words in a paragraph use &nbsp;&nbsp;&nbsp;&nbsp;jjjjj</p>
+    <p> for paragraph entity use &lt;p&gt;</p>
+    <p> for showing dollar entity &dollar; and &pound; entity</p>
+</div>
+<!-- CLASSES TO GROUP MULTIPLE ELEMENTS AT ONCE CAN USE SAME CLASS UNLIKE ID WHICH WILL BE DIFFERENT -->
+<div class="box">Box 1</div>
+<div class="box">Box 2</div>
+<div class="box">Box 3</div>
+<!-- UNIQUE NAMES FOR DIFFERENT ID'S -->
+<div id="header">This is the header</div>
+<div id="footer">This is the footer</div>
