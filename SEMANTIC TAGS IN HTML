@@ -1,0 +1,57 @@
+<h1 allign="right"> <strong>SEMANTIC TAGS IN HTML</strong></h1>
+<!--semantic tags are used to define the structure of a webpage-->
+<details>
+
+    <summary>Lorem ipsum dolor sit.
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore obcaecati illo alias quo quam a quod sunt
+        doloremque vitae, voluptate esse dignissimos? Doloribus quam alias blanditiis consequatur fugiat error
+        recusandae placeat officia ducimus neque qui, illum nisi consectetur ad voluptatem. ipsum dolor sit amet
+        consectetur adipisicing elit. Architecto magnam aliquam provident enim animi, quaerat est vel aperiam minima nam
+        repellendus quis, dolorem quod, fugiat omnis nulla ipsam deleniti! Pariatur!
+    </summary>
+</details>
+
+<body>
+    <header>
+        <h1>My Blog</h1>
+        <p>Welcome to my blog about web development and design.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <article>
+            <h2>Understanding Semantic HTML</h2>
+            <p>Semantic HTML or semantic markup is HTML that introduces meaning to the web page rather than just
+                presentation. For example, a `
+            <p>` tag indicates that the enclosed text is a paragraph. This is both semantic and presentational because
+                people know what paragraphs are, and browsers know how to display them.</p>
+            <p>Using semantic HTML tags has many benefits, including better accessibility for screen readers, improved
+                SEO, and easier maintenance of code.</p>
+        </article>
+
+        <aside>
+            <h3>Related Articles</h3>
+            <ul>
+                <li><a href="#html-basics">HTML Basics</a></li>
+                <li><a href="#css-guide">CSS Guide</a></li>
+                <li><a href="#javascript-tutorials">JavaScript Tutorials</a></li>
+            </ul>
+        </aside>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 My Blog. All rights reserved.</p>
+    </footer>
+
+
+
+
+
+</body>
