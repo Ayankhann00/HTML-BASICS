@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<h2><strong>FORMS IN HTML</strong></h2><!--CREATING FORMS IN HTML-->
+<form action="Myform.php">
+    <label for="name">name</label>
+    <div>
+        name:<input type="text">
+    </div>
+    <hr>
+    </hr>
+    <div>
+        age:<input type="text">
+    </div>
+    <div>
+        date:<input type="date" name="date">
+    </div>
+    <div>
+        Bonus:<input type="number" name="num">
+    </div>
+    <div>
+        gender:male<input type="radio" name="Mygender">female<input type="radio" name="Mygender">
+    </div>
+    </div>
+    <div>
+        <input type="reset" name="reset now">
+    </div>
+    <div>
+        agree to terms and conditions:<input type="checkbox" name="eligible">
+    </div>
+
+    <div>
+        <h4><strong>THE CITY</strong></h4>
+        <select>
+            <option value="london">london</option>
+            <option value="chicago">chicago</option>
+            <option value="mumbai">mumbai</option>
+        </select>
+    </div>
+    <div>
+        upload a file:<input type="file" name="myfile">
+    </div>
+    <div>
+        upload image:<input type="image" name="myimage">
+    </div>
+    <div>
+        info:<textarea name="info" cols="30" rows="10"></textarea><!--TEXT AREA-->
+    </div>
+    <div>
+        <input type="submit" name="submit now">
+    </div>
+<!--CHECKBOX-->
+<!--RADIO BUTTON-->
+<!--SUBMIT AND RESET BUTTON-->
+<!--NUMBER BUTTON-->
+
+</form>
+<span>FILL THIS FORM TO PROCEED</span> <span>this form is mandatory to fill</span>
+
+</body>
+
+
+</html><!--closing the web page-->
